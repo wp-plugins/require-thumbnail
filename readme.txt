@@ -10,7 +10,7 @@ Prevents an user to publish a post without a thumbnail.
 == Description ==
 Prevents an user to publish a post without a thumbnail. If a user presses the publish button without a thumbnail, the post will 
 be saved as a draft. For more information see installation page or the 
-[Webfish](http://www.webfish.se/wp/plugins/require-thumbnails "Webfish - Wordpress plugin") homepage.
+[Webfish](http://www.webfish.se/wp/plugins/require-thumbnail "Webfish - Wordpress plugin") homepage.
 
 == Installation ==
 
@@ -22,5 +22,5 @@ For more information see [Webfish](http://www.webfish.se/wp/plugins "Wordpress p
 
 == Frequently Asked Questions ==
 
-The frequently asked questions is updated at the plugin's homepage [Wordpress Require Thumbnails](http://www.webfish.se/wp/plugins/require-thumbnailss#FAQ "Webfish - Wordpress plugin"). 
+The frequently asked questions is updated at the plugin's homepage [Wordpress Require Thumbnail](http://www.webfish.se/wp/plugins/require-thumbnail#FAQ "Webfish - Wordpress plugin"). 
 
